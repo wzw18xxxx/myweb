@@ -1,0 +1,11 @@
+Rank, Title, Genre, Director, Year, Studio
+1, Inception, science fiction, Christopher Nolan,	2010,Warner Bros.
+2, Spirited Away, Animation, Hayao Miyazaki, 2001, Studio Ghibli
+3, The Dark Knight, Action, Christopher Nolan, 2008,	Warner Bros.
+4, Toy Story 3, Animation, Lee Unkrich, 2010, Pixar
+5, Eternal Sunshine of the Spotless Mind, Romance,  Gondry, 2004, Focus Features
+6, Avengers: Endgame, Action, Russo Brothers, 2019, Marvel Studios
+7, Get Out, Horror, Jordan Peele, 2017, Universal Pictures
+​8, La La Land, Romance, Damien Chazelle, 2016, Lionsgate
+9, Black Panther, Action, Ryan Coogler, 2018, Marvel Studios
+10, Dune: Part Two, science fiction, Denis Villeneuve, 2024,  Warner Bros. ​
